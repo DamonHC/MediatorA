@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MediatorA"
-  s.version       = "1.0.0"
+  s.version       = "1.1.0"
   s.summary      = "MediatorA."
 
   # This description is used to generate tags and improve search results.
@@ -134,6 +134,6 @@ Pod::Spec.new do |s|
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "BLNetworking"
   # s.dependency "BLAPIManagers"
-  # s.dependency "BLMediator"
+  s.dependency "CTMediator"
 
 end
