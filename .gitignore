@@ -1,0 +1,7 @@
+MediatorA.xcodeproj/xcuserdata/
+MediatorA.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MediatorA.xcodeproj/project.xcworkspace/xcuserdata/
